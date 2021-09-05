@@ -5,6 +5,7 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git passwall https://github.com/eramicro/openwrt-passwall
 src-git helloworld https://github.com/fw876/helloworld
 src-git aliddns https://github.com/eramicro/luci-app-aliddns
+src-git dnscrypt https://github.com/eramicro/luci-app-dnscrypt-proxy2
 #src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
